@@ -1,0 +1,46 @@
+h1 {
+    text-align: center;
+    color: burlywood;
+}
+.but{
+    background-color: burlywood;
+    height: 6vh;
+    width: 19vh;
+}
+.topdiv{
+    display: flex;
+}
+.middiv{
+    display: flex;
+}
+.bottomdiv{
+    display: flex;
+}
+img {
+    width: 28vh;
+    height: 30vh;
+
+}
+.imm{
+    height: 30vh;
+    width: 23vh;
+}
+.login{
+    background-color: lightblue;
+    width: 50vh;
+    height: 100%;
+
+
+}
+h6{
+    text-align: center;
+    color: wheat;
+    margin-bottom: 0px;
+}
+.one{
+    margin-left: 40%;
+
+}
+.two{
+    margin-left: 40%;
+}
